@@ -1,0 +1,15 @@
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="320" rx="34" fill="#0f172a"/>
+  <circle cx="132" cy="160" r="82" fill="#22d3ee" opacity="0.18"/>
+  <circle cx="132" cy="160" r="48" fill="#38bdf8"/>
+  <path d="M132 84v232M16 160h232M64 92l164 164M228 92L64 256" stroke="#e0f2fe" stroke-width="12" stroke-linecap="round" opacity="0.8"/>
+  <rect x="300" y="72" width="74" height="74" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="4"/>
+  <rect x="390" y="72" width="74" height="74" rx="16" fill="#1e293b" stroke="#64748b" stroke-width="4"/>
+  <rect x="480" y="72" width="74" height="74" rx="16" fill="#1e293b" stroke="#64748b" stroke-width="4"/>
+  <rect x="300" y="162" width="74" height="74" rx="16" fill="#1e293b" stroke="#64748b" stroke-width="4"/>
+  <rect x="390" y="162" width="74" height="74" rx="16" fill="#38bdf8"/>
+  <rect x="480" y="162" width="74" height="74" rx="16" fill="#1e293b" stroke="#64748b" stroke-width="4"/>
+  <text x="610" y="132" fill="#f8fafc" font-family="Arial, sans-serif" font-size="54" font-weight="800">Neuro Miner</text>
+  <text x="612" y="190" fill="#bae6fd" font-family="Arial, sans-serif" font-size="28">Minesweeper + tiny neural learner</text>
+  <text x="612" y="236" fill="#94a3b8" font-family="Arial, sans-serif" font-size="22">Train • Watch • Improve</text>
+</svg>
